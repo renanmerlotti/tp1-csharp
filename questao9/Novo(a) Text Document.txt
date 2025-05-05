@@ -1,0 +1,4 @@
+Pasta Pages: Armazena as páginas .cshtml e seus code-behinds .cshtml.cs
+Program.cs: Configura serviços e pipeline HTTP da aplicação.
+Serviços: Registrados no builder.Services no Program.cs.
+Roteamento: Definido por convenções na pasta Pages (ex: Index.cshtml → /Index) e por app.MapRazorPages().

@@ -1,0 +1,14 @@
+D:\projetos\tps\questao1\bin\Debug\net8.0\questao1.exe
+D:\projetos\tps\questao1\bin\Debug\net8.0\questao1.deps.json
+D:\projetos\tps\questao1\bin\Debug\net8.0\questao1.runtimeconfig.json
+D:\projetos\tps\questao1\bin\Debug\net8.0\questao1.dll
+D:\projetos\tps\questao1\bin\Debug\net8.0\questao1.pdb
+D:\projetos\tps\questao1\obj\Debug\net8.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\tps\questao1\obj\Debug\net8.0\questao1.AssemblyInfoInputs.cache
+D:\projetos\tps\questao1\obj\Debug\net8.0\questao1.AssemblyInfo.cs
+D:\projetos\tps\questao1\obj\Debug\net8.0\questao1.csproj.CoreCompileInputs.cache
+D:\projetos\tps\questao1\obj\Debug\net8.0\questao1.dll
+D:\projetos\tps\questao1\obj\Debug\net8.0\refint\questao1.dll
+D:\projetos\tps\questao1\obj\Debug\net8.0\questao1.pdb
+D:\projetos\tps\questao1\obj\Debug\net8.0\questao1.genruntimeconfig.cache
+D:\projetos\tps\questao1\obj\Debug\net8.0\ref\questao1.dll

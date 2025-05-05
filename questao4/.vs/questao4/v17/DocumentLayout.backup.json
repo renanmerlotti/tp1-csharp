@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projetos\\tps\\questao4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A933B5FD-5246-4576-AD12-B279BAF546D9}|questao4.csproj|d:\\projetos\\tps\\questao4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A933B5FD-5246-4576-AD12-B279BAF546D9}|questao4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A933B5FD-5246-4576-AD12-B279BAF546D9}|questao4.csproj|d:\\projetos\\tps\\questao4\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A933B5FD-5246-4576-AD12-B279BAF546D9}|questao4.csproj|solutionrelative:temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "D:\\projetos\\tps\\questao4\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "TemperatureSensor.cs",
+              "ToolTip": "D:\\projetos\\tps\\questao4\\TemperatureSensor.cs",
+              "RelativeToolTip": "TemperatureSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:30:28.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projetos\\tps\\questao4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\projetos\\tps\\questao4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:28:36.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

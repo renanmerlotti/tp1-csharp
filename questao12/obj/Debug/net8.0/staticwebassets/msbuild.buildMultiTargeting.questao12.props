@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\questao12.props" />
+</Project>
